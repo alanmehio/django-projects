@@ -53,7 +53,7 @@ LOGGING = {
 
 
 # Application definition
-
+# It’s important to place your own apps before the default apps in case you need to override any behavior of the default apps with your own custom behavior
 INSTALLED_APPS = [
     'main',
     'django.contrib.admin',
