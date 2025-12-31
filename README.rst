@@ -2,7 +2,8 @@ django-projects
 ---------------
 Simple , intermediat to advance django projects to help with different features for develop web applications in Django
 
-| Create virtual env.   under the root of the github repo, activate it and install Django and Pillow 
+| Create virtual env.   under the root of the github repo, activate it and install Django and Pillow which should work across all projects
+  Some projects  may require additional depdendencies so check the existining of **requirements.txt** under each project if the file exist
 
 .. code-block:: shell
   
